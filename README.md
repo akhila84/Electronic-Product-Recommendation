@@ -1,6 +1,3 @@
-Here's a more colorful and visually appealing version of the README using Markdown features. Though Markdown itself has limited styling options, you can enhance the visual appeal by adding badges, headings, and inline elements.
-
-```markdown
 # 🎛️ Electronics Product Recommendation System Using Machine Learning 🎛️
 
 ## 🔍 Project Description
